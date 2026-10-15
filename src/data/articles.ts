@@ -1,9 +1,9 @@
 import { Article } from '../types';
 
-export const HERO_IMAGE = '/src/assets/images/hero-vitiligo-hands-natural-pattern.jpg';
-export const BIOLOGY_IMAGE = '/src/assets/images/skin-biology-cross-section-illustration.jpg';
-export const STORY_IMAGE = '/src/assets/images/community-story-portrait-lifestyle.jpg';
-export const NUTRITION_IMAGE = '/src/assets/images/nourishing-whole-foods-nutrition-table.jpg';
+export const HERO_IMAGE = '/images/hero-vitiligo-hands-natural-pattern.jpg';
+export const BIOLOGY_IMAGE = '/images/skin-biology-cross-section-illustration.jpg';
+export const STORY_IMAGE = '/images/community-story-portrait-lifestyle.jpg';
+export const NUTRITION_IMAGE = '/images/nourishing-whole-foods-nutrition-table.jpg';
 
 export const MEDICAL_SOURCES_LIST = [
   {

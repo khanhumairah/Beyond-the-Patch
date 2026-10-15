@@ -121,7 +121,7 @@ export function useSeoRouter() {
           "@id": `${window.location.origin}/#organization`,
           "name": "Beyond The Patch",
           "url": window.location.origin,
-          "logo": `${window.location.origin}/src/assets/images/hero-vitiligo-hands-natural-pattern.jpg`,
+          "logo": `${window.location.origin}/images/hero-vitiligo-hands-natural-pattern.jpg`,
           "description": "An evidence-based educational initiative and digital publication dedicated to vitiligo science and living."
         },
         {
