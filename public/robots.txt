@@ -1,0 +1,8 @@
+# Robots.txt for Beyond The Patch (Educational Vitiligo Platform)
+User-agent: *
+Allow: /
+Disallow: /patch-diary/
+Disallow: /seo-content-audit/
+
+# Sitemap location
+Sitemap: /sitemap.xml

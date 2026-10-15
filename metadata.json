@@ -1,0 +1,7 @@
+{
+  "name": "BEYOND THE PATCH",
+  "description": "Understanding vitiligo beyond what you see. A modern, evidence-grounded educational platform and digital magazine exploring vitiligo science, treatments, nutrition, and personal stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
